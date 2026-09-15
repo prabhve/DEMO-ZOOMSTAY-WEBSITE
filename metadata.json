@@ -1,0 +1,6 @@
+{
+  "name": "ZoomStay - Boutique Homestays & Apartments",
+  "description": "Premium homestays and spacious apartments in Varanasi and Lucknow with authentic cultural experiences, modern comfort, and seamless reservation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
